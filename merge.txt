@@ -1,1 +1,2 @@
 I test one function with merge
+Get merge file in the branch task2
