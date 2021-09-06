@@ -1,0 +1,94 @@
+2021-09-06 14:00:01.5791|DEBUG|Logger|Start program
+2021-09-06 14:00:01.6810|DEBUG|Logger|Try to convert entered string number to int
+2021-09-06 14:00:01.7008|DEBUG|Logger|Start ToInt() method
+2021-09-06 14:00:01.7008|DEBUG|Logger|Start convert argument (number:143) to int
+2021-09-06 14:00:01.7008|DEBUG|Logger|Try to convert symbol 1 to number
+2021-09-06 14:00:01.7008|DEBUG|Logger|Try to convert symbol 4 to number
+2021-09-06 14:00:01.7008|DEBUG|Logger|Try to convert symbol 3 to number
+2021-09-06 14:00:01.7008|DEBUG|Logger|Program is completed
+2021-09-06 14:07:54.4027|DEBUG|Logger|Start program
+2021-09-06 14:07:54.5125|DEBUG|Logger|Try to convert entered string number to int
+2021-09-06 14:07:54.5125|DEBUG|Logger|Start ToInt() method
+2021-09-06 14:07:54.6113|DEBUG|Logger|The application failed, please see Errors.log
+2021-09-06 14:11:14.6492|DEBUG|Logger|Start program
+2021-09-06 14:11:14.7455|DEBUG|Logger|Try to convert entered string number to int
+2021-09-06 14:11:14.7568|DEBUG|Logger|Start ToInt() method
+2021-09-06 14:11:14.7568|DEBUG|Logger|Start convert argument (number:) to int
+2021-09-06 14:11:14.7568|DEBUG|Logger|Program is completed
+2021-09-06 14:44:43.4640|DEBUG|Logger|Start program
+2021-09-06 14:44:43.5891|DEBUG|Logger|Try to convert entered string number to int
+2021-09-06 14:44:43.6053|DEBUG|Logger|Start ToInt() method
+2021-09-06 14:44:43.6053|DEBUG|Logger|Start convert argument (number:) to int
+2021-09-06 14:44:43.6053|DEBUG|Logger|Program is completed
+2021-09-06 14:45:15.6336|DEBUG|Logger|Start program
+2021-09-06 14:45:15.7230|DEBUG|Logger|Try to convert entered string number to int
+2021-09-06 14:45:15.7328|DEBUG|Logger|Start ToInt() method
+2021-09-06 14:45:15.7328|DEBUG|Logger|Start convert argument (number:) to int
+2021-09-06 14:45:15.7427|DEBUG|Logger|Program is completed
+2021-09-06 14:45:32.8236|DEBUG|Logger|Start program
+2021-09-06 14:45:32.9320|DEBUG|Logger|Try to convert entered string number to int
+2021-09-06 14:45:32.9320|DEBUG|Logger|Start ToInt() method
+2021-09-06 14:45:32.9320|DEBUG|Logger|Start convert argument (number:) to int
+2021-09-06 14:45:32.9320|DEBUG|Logger|Program is completed
+2021-09-06 14:46:46.1515|DEBUG|Logger|Start program
+2021-09-06 14:46:46.2476|DEBUG|Logger|Try to convert entered string number to int
+2021-09-06 14:46:46.2566|DEBUG|Logger|Start ToInt() method
+2021-09-06 14:46:46.2566|DEBUG|Logger|Start convert argument (number:) to int
+2021-09-06 14:46:46.2566|DEBUG|Logger|Program is completed
+2021-09-06 14:47:15.4979|DEBUG|Logger|Start program
+2021-09-06 14:47:15.5815|DEBUG|Logger|Try to convert entered string number to int
+2021-09-06 14:47:15.5884|DEBUG|Logger|Start ToInt() method
+2021-09-06 14:47:15.5884|DEBUG|Logger|Start convert argument (number:) to int
+2021-09-06 14:47:15.5884|DEBUG|Logger|Program is completed
+2021-09-06 14:49:56.3620|DEBUG|Logger|Start program
+2021-09-06 14:49:56.5691|DEBUG|Logger|Try to convert entered string number to int
+2021-09-06 14:49:56.5958|DEBUG|Logger|Start ToInt() method
+2021-09-06 14:49:56.5958|DEBUG|Logger|Start convert argument (number:) to int
+2021-09-06 14:49:56.6034|DEBUG|Logger|Program is completed
+2021-09-06 14:50:36.9605|DEBUG|Logger|Start program
+2021-09-06 14:50:37.0438|DEBUG|Logger|Try to convert entered string number to int
+2021-09-06 14:50:37.0438|DEBUG|Logger|Start ToInt() method
+2021-09-06 14:50:37.0438|DEBUG|Logger|Start convert argument (number:) to int
+2021-09-06 14:50:37.0588|DEBUG|Logger|Program is completed
+2021-09-06 14:51:48.1527|DEBUG|Logger|Start program
+2021-09-06 14:51:48.3041|DEBUG|Logger|Try to convert entered string number to int
+2021-09-06 14:51:48.3041|DEBUG|Logger|Start ToInt() method
+2021-09-06 14:51:48.3041|DEBUG|Logger|Start convert argument (number:) to int
+2021-09-06 14:51:48.3041|DEBUG|Logger|Program is completed
+2021-09-06 14:52:23.1020|DEBUG|Logger|Start program
+2021-09-06 14:52:23.2237|DEBUG|Logger|Try to convert entered string number to int
+2021-09-06 14:52:23.2278|DEBUG|Logger|Start ToInt() method
+2021-09-06 14:52:23.2278|DEBUG|Logger|Start convert argument (number:) to int
+2021-09-06 15:06:56.0780|DEBUG|Logger|Start program
+2021-09-06 15:06:56.1846|DEBUG|Logger|Try to convert entered string number to int
+2021-09-06 15:06:56.2017|DEBUG|Logger|Start ToInt() method
+2021-09-06 15:06:56.3077|DEBUG|Logger|The application failed, please see Errors.log
+2021-09-06 15:13:55.4075|DEBUG|Logger|Start program
+2021-09-06 15:13:55.5304|DEBUG|Logger|Try to convert entered string number to int
+2021-09-06 15:13:55.5304|DEBUG|Logger|Start ToInt() method
+2021-09-06 15:13:55.6554|DEBUG|Logger|The application failed, please see Errors.log
+2021-09-06 15:16:23.1221 | Logger | Start program
+2021-09-06 15:16:23.2379 | Logger | Try to convert entered string number to int
+2021-09-06 15:16:23.2459 | Logger | Start ToInt() method
+2021-09-06 15:16:23.3197 | Logger | The application failed, please see Errors.log
+2021-09-06 15:18:27.5579| Debug | Logger | Start program
+2021-09-06 15:18:27.6539| Debug | Logger | Try to convert entered string number to int
+2021-09-06 15:18:27.6738| Debug | Logger | Start ToInt() method
+2021-09-06 15:18:27.7462| Debug | Logger | The application failed, please see Errors.log
+2021-09-06 15:21:58.5301|Debug|Logger|Start program
+2021-09-06 15:21:58.6306|Debug|Logger|Try to convert entered string number to int
+2021-09-06 15:21:58.6350|Debug|Logger|Start ToInt() method
+2021-09-06 15:21:58.6350|Debug|Logger|Start convert argument (number:123) to int
+2021-09-06 15:21:58.6350|Debug|Logger|Try to convert symbol 1 to number
+2021-09-06 15:21:58.6350|Debug|Logger|Try to convert symbol 2 to number
+2021-09-06 15:21:58.6350|Debug|Logger|Try to convert symbol 3 to number
+2021-09-06 15:21:58.6350|Debug|Logger|Program is completed
+2021-09-06 15:22:49.5018|Debug|Logger|Start program
+2021-09-06 15:22:49.5990|Debug|Logger|Try to convert entered string number to int
+2021-09-06 15:22:49.6031|Debug|Logger|Start ToInt() method
+2021-09-06 15:22:49.6031|Debug|Logger|Start convert argument (number:123f) to int
+2021-09-06 15:22:49.6031|Debug|Logger|Try to convert symbol 1 to number
+2021-09-06 15:22:49.6031|Debug|Logger|Try to convert symbol 2 to number
+2021-09-06 15:22:49.6031|Debug|Logger|Try to convert symbol 3 to number
+2021-09-06 15:22:49.6031|Debug|Logger|Try to convert symbol f to number
+2021-09-06 15:22:49.6857|Debug|Logger|The application failed, please see Errors.log
